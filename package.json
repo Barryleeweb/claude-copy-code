@@ -1,5 +1,5 @@
 {
-  "name": "claude-code-2.1.88-recovered",
+  "name": "cc-copy",
   "version": "2.1.88",
   "private": true,
   "description": "Recovered source rebuild for @anthropic-ai/claude-code 2.1.88 generated from cli.js.map.",
@@ -8,7 +8,7 @@
     "node": ">=18.0.0"
   },
   "bin": {
-    "claude-recovered": "dist/cli.js"
+    "cc-copy": "dist/cli.js"
   },
   "files": [
     "dist"

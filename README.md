@@ -113,11 +113,11 @@ npm install -g .
 安装后可运行：
 
 ```bash
-claude-recovered
+cc-copy
 ```
 # 查看帮助
 ```bash
-claude-recovered --help
+cc-copy --help
 ```
 
 如果你更偏向本地开发联调，也可以使用：
